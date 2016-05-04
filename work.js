@@ -1,5 +1,4 @@
 window.onload = function () {
-    // Check that elements exists after page has loaded
     if (document.getElementById("aid-overlay") != null && document.getElementsByClassName("am-article-summary") != null) {
         waitForElement('.am-gridComp-body', function () {
             $('.aid-background-blur').addClass("aid-background").removeClass("aid-background-blur");
