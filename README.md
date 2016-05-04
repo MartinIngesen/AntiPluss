@@ -1,10 +1,10 @@
-# AntiPlus
-## The Amedia+ Remover Chrome Extension
+# AntiPluss
+## Chrome Extension for lesing av Amedia+ innhold
 
-Based on [Amedia-Leser](https://github.com/tomasruud/amedia-leser/) by Tomas Ruud.
+Basert på [Amedia-Leser](https://github.com/tomasruud/amedia-leser/) laget av Tomas Ruud.
 
 ## Aviser
-This should work for all these newspapers:
+Denne extensionen burde fungere på nettsidene til:
 - Akershus Amtstidende
 - Akersposten
 - Arbeidets Rett
@@ -72,4 +72,4 @@ This should work for all these newspapers:
 - Ås Avis
 
 ## Disclaimer
-See `DISCLAIMER.md`
+Se `DISCLAIMER.md`

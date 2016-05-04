@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "AntiPlus",
-  "description": "No more Amedia +.",
+  "name": "AntiPluss",
+  "description": "Chrome Extension for lesing av Amedia+ innhold.",
   "version": "1.0",
   "content_scripts": [
     {
@@ -9,9 +9,5 @@
       "js": [
           "jquery-2.2.3.min.js", "work.js" ]
     }
-  ],
-  "permissions": [
-    "activeTab",
-    "tabs"
   ]
 }
