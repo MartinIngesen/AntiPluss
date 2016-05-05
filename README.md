@@ -1,3 +1,5 @@
+# This no longer works, because of changes to the Amedia API. It was fun while it lasted.
+
 # AntiPluss
 ## Chrome Extension for lesing av Amedia+ innhold
 
